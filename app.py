@@ -1,5 +1,3 @@
-import sys
-
 def main():
     print("This is a sample Python application.")
 
